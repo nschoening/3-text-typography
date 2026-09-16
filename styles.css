@@ -1,0 +1,26 @@
+html {
+    background-color: aliceblue;
+     font-family: "Roboto", sans-serif;
+}
+
+.site-name {
+    background-color: blueviolet;
+    color:white;
+    text-align:center;
+    font-family: "quador", serif;
+    font-weight: 900;
+    line-height: 1;
+    font-size: 60px;
+}
+
+.section-name {
+    color:blueviolet;
+}
+
+.address {
+    text-align: right
+}
+
+.callout {
+    color:orange
+}
